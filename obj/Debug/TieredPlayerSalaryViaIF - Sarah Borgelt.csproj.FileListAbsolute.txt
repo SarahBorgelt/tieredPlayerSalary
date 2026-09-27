@@ -1,0 +1,10 @@
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\bin\Debug\TieredPlayerSalaryViaIF - Sarah Borgelt.exe.config
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\bin\Debug\TieredPlayerSalaryViaIF - Sarah Borgelt.exe
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\bin\Debug\TieredPlayerSalaryViaIF - Sarah Borgelt.pdb
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\obj\Debug\TieredPlayerSalaryViaIF - Sarah Borgelt.csproj.AssemblyReference.cache
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\obj\Debug\TieredPlayerSalaryViaIF___Sarah_Borgelt.Form1.resources
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\obj\Debug\TieredPlayerSalaryViaIF___Sarah_Borgelt.Properties.Resources.resources
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\obj\Debug\TieredPlayerSalaryViaIF - Sarah Borgelt.csproj.GenerateResource.cache
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\obj\Debug\TieredPlayerSalaryViaIF - Sarah Borgelt.csproj.CoreCompileInputs.cache
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\obj\Debug\TieredPlayerSalaryViaIF - Sarah Borgelt.exe
+D:\LCCC\TieredPlayerSalaryViaIF - Sarah Borgelt\obj\Debug\TieredPlayerSalaryViaIF - Sarah Borgelt.pdb
